@@ -128,3 +128,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Position:
     m_InternalValue: {x: 0, y: 0, z: 0}
+  forward: 1
+  TurnValue: 450
+  currentTUrn: 0
+  spawnTimer: 0
+  player: {fileID: 4130995131641917475}
